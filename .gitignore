@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+.env
+data/bank/*.csv
+data/internal/*.csv
+data/processed/
+.venv-wsl/
