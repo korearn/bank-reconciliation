@@ -44,7 +44,7 @@ bank-reconciliation/
 
 ## Instalación
 ```bash
-git clone https://github.com/tu-usuario/bank-reconciliation
+git clone https://github.com/korearn/bank-reconciliation
 cd bank-reconciliation
 python3 -m venv .venv
 source .venv/bin/activate
